@@ -1,5 +1,7 @@
 # Data-Structuce-and-Algo
 
+[UPDATE] LoveBabar has updated a list for DS algo : https://www.youtube.com/watch?v=4iFALQ1ACdA&t=402s
+
 This repository conatins algorithms of Data Structure :
 
 Array
@@ -16,3 +18,6 @@ String Basic Question: https://onedrive.live.com/?authkey=%21AGLEdTra7OMftSQ&cid
 String Intermediate Question: 
 
 Ref: Love Babbar (Youtube)
+
+
+FOLLLOW LEETCODE: https://leetcode.com/problemset/all/
